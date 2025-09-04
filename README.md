@@ -1,16 +1,16 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/PenzanceJubPool1900x994.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="/PenzanceJubPool1900x994.jpg">
-  <img alt="Penzance" src="/IMG_20240707_165657424-AUTO_ENHANCE.jpg" width="800px">
+ <source media="(prefers-color-scheme: dark)" srcset="/PenzanceJubPool1900x994.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="/PenzanceJubPool1900x994.jpg">
+ <img alt="Penzance" src="/IMG_20240707_165657424-AUTO_ENHANCE.jpg" width="800px">
 </picture>
 
 ## Hi! I'm Marijonas from Penzance, Cornwall, UK.
 
 ## About Me
 
-I'm a Junior Full Stack Developer passionate about technology, problem-solving, and lifelong learning. With a diverse background spanning 15 years in translation/localisation and a decade in data-[...]
+I'm a Junior Full Stack Developer passionate about technology, problem-solving, and lifelong learning. With a diverse background spanning 15 years in translation/localisation and a decade in data-driven stock market research and investment management, I'm thrilled to transition into AI-augmented software development. This journey is powered by the Code Institute bootcamp and support from Headforwards. Holding a Master's degree in Maths & IT, I began my career as a programmer, and I'm excited to return to my roots, inspired by the dynamic opportunities in AI development.
 
-I enjoy working with Python, JavaScript, HTML, CSS, SQL, and Django, creating projects that integrate data, automation, and web development. This is just the beginning of my journey in this field.[...]
+I enjoy working with Python, JavaScript, HTML, CSS, SQL, and Django, creating projects that integrate data, automation, and web development. This is just the beginning of my journey in this field. I'm always curious and eager to learn, aiming to expand my toolkit as a Full Stack Developer. My background in coding and AI assistance positions me as a fast learner.
 
 Let’s collaborate and build something remarkable - feel free to connect or explore my first projects! 🚀
 
@@ -68,7 +68,7 @@ Utilising HTML, CSS, JS, Bootstrap, Django, Python, Heroku, PostgreSQL, Agile
 ![Mobile view](https://github.com/Marso22/mind_board_games_blog/blob/main/static/images/mobile_view.png)
 
 #### Hackathon 2 (August 2025) - Companion App
-Utilising HTML, CSS, JS, Bootstrap, Django, Python, API, Heroku, PostgreSQL, Agile - our second hackathon project brought together the full stack skills learned since May 2025. We implemented func[...]
+Utilising HTML, CSS, JS, Bootstrap, Django, Python, API, Heroku, PostgreSQL, Agile - our second hackathon project brought together the full stack skills learned since May 2025. We implemented functionality for users to create, read, update, and delete (CRUD) records. For the 2nd time we were a team of 4 and practiced to work together using repository to exchange our work and put all pieces together.
 
 <a href="https://github.com/JamieJB123/hackathon2" target="_blank">View Repo</a> <br>
 <a href="https://hackathon2-helper-182de8322106.herokuapp.com/" target="_blank">Visit Companion App Site</a>
@@ -76,7 +76,7 @@ Utilising HTML, CSS, JS, Bootstrap, Django, Python, API, Heroku, PostgreSQL, Agi
 ![Responsive view](https://github.com/JamieJB123/hackathon2/blob/main/static/images/website-mockup.png)
 
 #### Hackathon 1 (June 2025) - Hack-a-Game
-Utilising HTML, CSS, JS, Bootstrap - our first hackathon project brought together the front-end skills learned since May 2025. The team of 4 practiced to work together using repository to exchange[...]
+Utilising HTML, CSS, JS, Bootstrap - our first hackathon project brought together the front-end skills learned since May 2025. The team of 4 practiced to work together using repository to exchange their work and put all pieces together.
 
 <a href="https://github.com/SandyWyper/Hack-a-Game/blob/main/README.md" target="_blank">View Repo</a> <br>
 <a href="https://sandywyper.github.io/Hack-a-Game/" target="_blank">Visit Site</a>
@@ -90,3 +90,4 @@ Utilising HTML, CSS, JS, Bootstrap - the purpose of this project was to produce 
 <a href="https://marso22.github.io/healthy-living-mental-health/#" target="_blank">Visit Site</a>
 
 ![Responsive view](https://github.com/Marso22/marijonas-rocius/blob/main/Healthy-living-response.jpg)
+
