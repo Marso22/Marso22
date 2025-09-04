@@ -58,8 +58,8 @@ Let’s collaborate and build something remarkable - feel free to connect or exp
 
 ### Code Institute AI-Augmented Full Stack Developer Bootcamp Projects
 
-#### Capstone Individual Project (24 July - 12 August 2025)
-Utilising HTML, CSS, JS, Bootstrap, Django, Python, Heroku, PostgreSQL, Agile
+#### Capstone Individual Project (24 July - 12 August 2025) - Mind Board Games Blog
+Utilising HTML, CSS, JS, Bootstrap, Django, Python, Heroku, PostgreSQL, Agile. Implemented functionality for users to create, read, update, and delete (CRUD) records.
 
 <a href="https://github.com/Marso22/mind_board_games_blog" target="_blank">View Repo</a> <br>
 <a href="https://mind-board-game-app-02a4da3cd705.herokuapp.com/" target="_blank">Visit Site</a>
@@ -83,7 +83,7 @@ Utilising HTML, CSS, JS, Bootstrap - our first hackathon project brought togethe
 
 ![Responsive view](https://github.com/Marso22/marijonas-rocius/blob/main/responsive.png)
 
-#### First Individual Project (June 2025)
+#### First Individual Project (June 2025) - Healthy Living Promotes Mental Health Awareness
 Utilising HTML, CSS, JS, Bootstrap - the purpose of this project was to produce a static website utilising the languages and frameworks covered at the start of the course.
 
 <a href="https://github.com/Marso22/healthy-living-mental-health" target="_blank">View Repo</a> <br>
